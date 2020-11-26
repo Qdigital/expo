@@ -92,7 +92,7 @@
     "react-native-shared-element": "~0.5.1",
     "react-native-svg": "9.13.3",
     "react-native-web": "^0.11.0",
-    "react-native-webview": "7.4.3",
+    "react-native-webview": "11.0.0",
     "react-navigation": "4.1.0-alpha.1",
     "react-navigation-header-buttons": "^1.2.1",
     "react-navigation-material-bottom-tabs": "^1.1.0",
