@@ -12,6 +12,6 @@
     "@expo/mux": "^1.0.7",
     "expo": "~36.0.0",
     "react": "16.9.0",
-    "react-native": "0.61.4"
+    "react-native": "0.64.0"
   }
 }
