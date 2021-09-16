@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "async-retry": "^1.1.4",
-    "expo": "~36.0.0",
+    "expo": "~39.0.1",
     "expo-ads-admob": "~8.0.0",
     "expo-ads-facebook": "~8.0.0",
     "expo-analytics-segment": "~8.0.0",
@@ -49,7 +49,7 @@
     "jasmine-core": "^2.4.1",
     "lodash": "^4.17.4",
     "react": "16.9.0",
-    "react-native": "0.61.4",
+    "react-native": "0.64.0",
     "react-native-gesture-handler": "~1.5.1",
     "react-native-safe-area-view": "^0.14.8",
     "react-native-web": "^0.11.0",
